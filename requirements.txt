@@ -1,0 +1,8 @@
+# Market Neutral Pairs Trading Bot
+python-dotenv>=1.0.0
+ccxt>=4.0.0
+pandas>=2.0.0
+pandas-ta>=0.3.14b
+numpy>=1.24.0
+scipy>=1.10.0
+aiohttp>=3.9.0
